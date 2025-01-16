@@ -17,7 +17,7 @@
 ---
 <br>
 
-## 팀원
+## TEAM OTTO MEMBERS
 |<img src="https://avatars.githubusercontent.com/u/98368034?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/193404366?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/121565744?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/129049084?v=4" width="150" height="150"/>|
 |:-:|:-:|:-:|:-:|
 |장수현<br/>[@Aunsxm](https://github.com/adf123124)|지수근<br/>[@SuGeunJee](https://github.com/SuGeunJee)|이은정<br/>[@eundeom](https://github.com/eundeom)|민정인<br/>[@min-jp](https://github.com/min-jp)|
