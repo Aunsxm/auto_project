@@ -9,6 +9,7 @@
 4. [🧪테스트](#테스트)
 5. [🤔고찰](#고찰)
 6. [🛠️트러블슈팅](#트러블-슈팅)
+7. [🌐개발 환경](#-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD)
 
 
 
@@ -131,3 +132,13 @@
 ## 고찰
 
 ## 트러블 슈팅
+
+---
+## 🌐 개발 환경
+
+| **역할**            | **종류**                                                                                                              |
+|----------------------|-----------------------------------------------------------------------------------------------------------------------|
+| 🤝 협업 도구         | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) <br> ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
+| 🗄️ 데이터베이스      | ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) <br> ![DBeaver](https://img.shields.io/badge/dbeaver-372923.svg?style=for-the-badge&logo=dbeaver&logoColor=white) |
+| 💬 커뮤니케이션 도구 | ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) <br> ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) |
+| 🛠️ 개발 및 관리 도구 | ![MobaXterm](https://img.shields.io/badge/mobaxterm-2C2E34.svg?style=for-the-badge&logo=mobaxterm&logoColor=white) |
