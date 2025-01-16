@@ -20,7 +20,7 @@
 ## 팀원
 |<img src="https://avatars.githubusercontent.com/u/98368034?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/193404366?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/121565744?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/129049084?v=4" width="150" height="150"/>|
 |:-:|:-:|:-:|:-:|
-|장수현<br/>[@Aunsxm](https://github.com/adf123124)|지수근<br/>[@SuGeunJee](https://github.com/SuGeunJee)|@eundeom<br/>[@eundeom](https://github.com/eundeom)|민정인<br/>[@min-jp](https://github.com/min-jp)|
+|장수현<br/>[@Aunsxm](https://github.com/adf123124)|지수근<br/>[@SuGeunJee](https://github.com/SuGeunJee)|이은정<br/>[@eundeom](https://github.com/eundeom)|민정인<br/>[@min-jp](https://github.com/min-jp)|
 
 
 <br>
@@ -28,11 +28,17 @@
 ## 📝 기획
 "가상의 BMW 정비 데이터베이스를 활용한 SQL 정규표현식 실습 교안"
 
-본 교안은 자동차 정비 서비스를 제공하는 가상의 BMW 대리점의 데이터베이스를 기반으로 SQL 정규표현식(Regular Expression)의 실전 활용법을 학습하기 위해 설계되었습니다.
+본 교안은 자동차 정비 서비스를 제공하는 가상의 BMW 대리점의 데이터베이스를 기반으로 <br>
+<b>SQL 정규표현식(Regular Expression)의 실전 활용법을 학습</b>하기 위해 설계되었습니다.
 
-데이터베이스는 대리점 정보, 차량 정보, 부품 정보, 정비 이력 정보 등 실제 업무 환경과 유사한 구조로 구성되어 있으며, 각 테이블의 특정 컬럼들은 정규표현식을 활용한 데이터 검증과 조회가 필요한 상황을 포함하고 있습니다.
+데이터베이스는 <ins>대리점 정보, 차량 정보, 부품 정보, 정비 이력 정보</ins> 등 실제 업무 환경과 유사한 구조로 구성되어 있으며, <br>
+각 테이블의 특정 컬럼들은 정규표현식을 활용한 데이터 검증과 조회가 필요한 상황을 포함하고 있습니다.
 
 ### ✏️ 학습 내용
+
+
+![Screenshot 2025-01-16 at 11 59 05 PM](https://github.com/user-attachments/assets/8a7630f9-24e3-43b3-b342-d7cd090a9617)
+
 
 **1. 회원 데이터 관리**
 - 전화번호 패턴 검증
