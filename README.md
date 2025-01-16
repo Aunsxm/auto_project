@@ -35,9 +35,10 @@
 
 <br><br>
 
----
 
 ### Table Info
+
+---
 
 **1. 대리점 정보 테이블 (car_centers)**
  
@@ -48,6 +49,7 @@
 | `tel` | VARCHAR(15) | 대리점 전화번호. |
 | `passwd` | VARCHAR(30) | 대리점 로그인용 비밀번호. |
 
+<br>
 
  **2. 차량 정보 테이블 (vehicles)**
  
@@ -62,7 +64,7 @@
 
 - `car_center_id`는 **car_centers** 테이블의 `car_center_id`를 참조하여 대리점과 차량 간의 관계를 정의합니다.
 
-
+<br>
 
 ### **3. 부품 정보 테이블 (parts)**
 
@@ -73,7 +75,7 @@
 | `part_code` | VARCHAR(50) (UNIQUE) | 부품의 고유 코드 (중복 불가). |
 | `price` | VARCHAR(100) | 부품 가격. |
 
-
+<br>
 
 ### **4. 정비 이력 테이블 (maintenance_history)**
 
@@ -85,6 +87,7 @@
 | `cost` | VARCHAR(20) | 정비 비용. |
 | `part_id` | VARCHAR(50) | 사용된 부품의 고유 코드. |
 
+<br>
 
 ---
 
