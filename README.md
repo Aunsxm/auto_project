@@ -17,7 +17,7 @@
 <br><br>
 
 ## 팀원
-|<img src="https://avatars.githubusercontent.com/u/179544856?v=4" width="150" height="150"/>|-|<img src="https://avatars.githubusercontent.com/u/121565744?v=4" width="150" height="150"/>|-|
+|<img src="https://avatars.githubusercontent.com/u/98368034?v=4" width="150" height="150"/>|-|<img src="https://avatars.githubusercontent.com/u/121565744?v=4" width="150" height="150"/>|-|
 |:-:|:-:|:-:|:-:|
 |장수현<br/>[@Aunsxm](https://github.com/adf123124)|ㅇㅇ|@eundeom<br/>[@eundeom](https://github.com/eundeom)|ㅇㅇ|
 
