@@ -35,6 +35,8 @@
 데이터베이스는 <ins>대리점 정보, 차량 정보, 부품 정보, 정비 이력 정보</ins> 등 실제 업무 환경과 유사한 구조로 구성되어 있으며, <br>
 각 테이블의 특정 컬럼들은 정규표현식을 활용한 데이터 검증과 조회가 필요한 상황을 포함하고 있습니다.
 
+![WOORI INFO - 학생 정보 관리 시스템 🎓 - visual selection (1)](https://github.com/user-attachments/assets/cb47f85f-b9bd-485c-85cf-ee5c0cb0007a)
+
 
 # ✏️ 학습 내용
 
