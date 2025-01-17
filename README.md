@@ -15,7 +15,10 @@
 
 
 
+<br>
+
 ---
+
 <br>
 
 ## TEAM OTTO MEMBERS
@@ -26,7 +29,14 @@
 
 <br>
 
+---
+
+<br>
+
 # 📝 기획
+
+<img src="https://github.com/user-attachments/assets/cb47f85f-b9bd-485c-85cf-ee5c0cb0007a" width="700">
+
 "가상의 BMW 정비 데이터베이스를 활용한 SQL 정규표현식 실습 교안"
 
 본 교안은 자동차 정비 서비스를 제공하는 가상의 BMW 대리점의 데이터베이스를 기반으로 <br>
@@ -35,8 +45,12 @@
 데이터베이스는 <ins>대리점 정보, 차량 정보, 부품 정보, 정비 이력 정보</ins> 등 실제 업무 환경과 유사한 구조로 구성되어 있으며, <br>
 각 테이블의 특정 컬럼들은 정규표현식을 활용한 데이터 검증과 조회가 필요한 상황을 포함하고 있습니다.
 
-![WOORI INFO - 학생 정보 관리 시스템 🎓 - visual selection (1)](https://github.com/user-attachments/assets/cb47f85f-b9bd-485c-85cf-ee5c0cb0007a)
 
+<br>
+
+---
+
+<br>
 
 # ✏️ 학습 내용
 
@@ -58,7 +72,13 @@
 총 7개의 실습 문제를 통해 실무에서 자주 사용되는 정규표현식 패턴을 학습하고, 데이터 품질 관리와 검색 기능 구현에 필요한 SQL 활용 능력을 향상시킬 수 있습니다.
 <br><br>
 
+
+<br>
+
 ---
+
+<br>
+
 # 🌐 개발 환경
 
 | **역할**            | **종류**                                                                                                              |
@@ -68,7 +88,13 @@
 | 💬 커뮤니케이션 도구 | ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) <br> ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) |
 | 🛠️ 개발 및 관리 도구 | ![MobaXterm](https://img.shields.io/badge/mobaxterm-2C2E34.svg?style=for-the-badge&logo=mobaxterm&logoColor=white) |
 
+
+<br>
+
 ---
+
+<br>
+
 # 🛠 설계
 ## ⚙ ERD
 ![image (2)](https://github.com/user-attachments/assets/6120534a-765c-4f37-a347-15d25300f65e)
@@ -138,9 +164,12 @@
 
 [📃Notion](https://www.notion.so/f44120c1fe394664a2f44846a53a1195?pvs=21)
 
+
 <br>
 
 ---
+
+<br>
 
 # 🤔 고찰
 ## 🖥️ VirtualBox 네트워크 설정 분석: NAT vs NAT Network vs Bridge Adapter
@@ -228,6 +257,12 @@ NAT 네트워크는 가상머신 간 통신에 적합하지만, 외부 네트워
 ## ✅ 결론
 
 이번 과정을 통해 VirtualBox의 세 가지 네트워크 연결 방식을 비교하며 각 방식의 특징과 설정 방법을 학습할 수 있었습니다. 특히, 어댑터 브릿지가 외부 네트워크와의 연결에 적합한 방식임을 확인했으며, NAT 네트워크는 가상머신 간 통신에 적합한 환경이라는 점을 이해할 수 있었습니다.
+
+<br>
+
+---
+
+<br>
 
 # 📌 트러블 슈팅
 ## 💥 이슈
