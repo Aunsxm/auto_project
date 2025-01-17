@@ -268,6 +268,8 @@ NAT 네트워크는 가상머신 간 통신에 적합하지만, 외부 네트워
 ## 💥 이슈
 MySQL에서 정규표현식 사용 시 \d와 같은 Perl 스타일로 쿼리를 작성하였더니 정규 표현식이 제대로 적용되지 않았습니다.
 
+![image](https://github.com/user-attachments/assets/b7e96209-cb13-4f33-a92d-51ae5adb3271)
+
 ![image](https://github.com/user-attachments/assets/6a0ac913-6a9f-4197-bba6-c59a450daf63)
 
 
@@ -323,4 +325,5 @@ WHERE tel REGEXP '^044-[[:digit:]]{3,4}-[[:digit:]]{4}$';
 ## 참고 문서
 
 [MySQL 공식 문서 : Regular Expressions](https://dev.mysql.com/doc/refman/8.0/en/regexp.html) <br>
-[MySQL 전방탐색 지원](https://www.popit.kr/경-mysql-전방탐색-지원-축)
+[MySQL 전방탐색 지원](https://www.popit.kr/경-mysql-전방탐색-지원-축) <br>
+[정규 표현식 테스트 링크](https://regex101.com/)
