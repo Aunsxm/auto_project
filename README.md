@@ -3,13 +3,14 @@
 <br>
 
 ## 목차
-1. [📊기획](#%EA%B8%B0%ED%9A%8D)
-2. [🧰설계](#%EC%84%A4%EA%B3%84)
-3. [💻쿼리연습문제](#쿼리-연습-문제)
-4. [🧪테스트](#테스트)
-5. [🤔고찰](#고찰)
-6. [🛠️트러블슈팅](#트러블-슈팅)
-7. [🌐개발 환경](#-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD)
+1. [📝기획](#%EA%B8%B0%ED%9A%8D)
+2. [✏️학습 내용](#%EF%B8%8F-%ED%95%99%EC%8A%B5-%EB%82%B4%EC%9A%A9)
+3. [🌐개발 환경](#-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD)
+4. [🛠설계](#%EC%84%A4%EA%B3%84)
+5. [💻쿼리연습문제](#쿼리-연습-문제)
+6. [🤔고찰](#고찰)
+7. [📌트러블슈팅](#트러블-슈팅)
+
 
 
 
@@ -34,9 +35,8 @@
 데이터베이스는 <ins>대리점 정보, 차량 정보, 부품 정보, 정비 이력 정보</ins> 등 실제 업무 환경과 유사한 구조로 구성되어 있으며, <br>
 각 테이블의 특정 컬럼들은 정규표현식을 활용한 데이터 검증과 조회가 필요한 상황을 포함하고 있습니다.
 
-# ✏️ 학습 내용
 
-![Screenshot 2025-01-16 at 11 59 05 PM](https://github.com/user-attachments/assets/8a7630f9-24e3-43b3-b342-d7cd090a9617)
+# ✏️ 학습 내용
 
 **1. 회원 데이터 관리**
 - 전화번호 패턴 검증
@@ -56,6 +56,17 @@
 총 7개의 실습 문제를 통해 실무에서 자주 사용되는 정규표현식 패턴을 학습하고, 데이터 품질 관리와 검색 기능 구현에 필요한 SQL 활용 능력을 향상시킬 수 있습니다.
 <br><br>
 
+---
+# 🌐 개발 환경
+
+| **역할**            | **종류**                                                                                                              |
+|----------------------|-----------------------------------------------------------------------------------------------------------------------|
+| 🤝 협업 도구         | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) <br> ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
+| 🗄️ 데이터베이스      | ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) <br> ![DBeaver](https://img.shields.io/badge/dbeaver-372923.svg?style=for-the-badge&logo=dbeaver&logoColor=white) |
+| 💬 커뮤니케이션 도구 | ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) <br> ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) |
+| 🛠️ 개발 및 관리 도구 | ![MobaXterm](https://img.shields.io/badge/mobaxterm-2C2E34.svg?style=for-the-badge&logo=mobaxterm&logoColor=white) |
+
+---
 # 🛠 설계
 ## ⚙ ERD
 ![image (2)](https://github.com/user-attachments/assets/6120534a-765c-4f37-a347-15d25300f65e)
@@ -116,7 +127,7 @@
 
 <br>
 
-# 쿼리 연습 문제 - 정답 추후 공개
+# 💻 쿼리 연습 문제 - 정답 추후 공개
 
 [📃Notion](https://www.notion.so/f44120c1fe394664a2f44846a53a1195?pvs=21)
 
@@ -124,7 +135,7 @@
 
 ---
 
-# 고찰
+# 🤔 고찰
 ## 🖥️ VirtualBox 네트워크 설정 분석: NAT vs NAT Network vs Bridge Adapter
 
 가상 머신(VirtualBox) 내에 설치된 MySQL 데이터베이스를 팀원들이 외부에서 접근하여 사용할 수 있도록 설정하는 과정을 진행했습니다.
@@ -271,13 +282,3 @@ WHERE tel REGEXP '^044-[[:digit:]]{3,4}-[[:digit:]]{4}$';
 
 [MySQL 공식 문서 : Regular Expressions](https://dev.mysql.com/doc/refman/8.0/en/regexp.html) <br>
 [MySQL 전방탐색 지원](https://www.popit.kr/경-mysql-전방탐색-지원-축)
-
----
-# 🌐 개발 환경
-
-| **역할**            | **종류**                                                                                                              |
-|----------------------|-----------------------------------------------------------------------------------------------------------------------|
-| 🤝 협업 도구         | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) <br> ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
-| 🗄️ 데이터베이스      | ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) <br> ![DBeaver](https://img.shields.io/badge/dbeaver-372923.svg?style=for-the-badge&logo=dbeaver&logoColor=white) |
-| 💬 커뮤니케이션 도구 | ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) <br> ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) |
-| 🛠️ 개발 및 관리 도구 | ![MobaXterm](https://img.shields.io/badge/mobaxterm-2C2E34.svg?style=for-the-badge&logo=mobaxterm&logoColor=white) |
