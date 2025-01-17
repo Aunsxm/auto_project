@@ -51,6 +51,7 @@ insert into car_centers(name, tel, passwd) values('대구 동구 대리점', '05
 insert into car_centers(name, tel, passwd) values('대구 북구 대리점', '053-234-1235', 'Bm4567s!');
 insert into car_centers(name, tel, passwd) values('대구 수성구 대리점', '053-125-9866', 'Bm4567sd');
 insert into car_centers(name, tel, passwd) values('서울 마포구 대리점', '02-238-1838', 'bm4567s!');
+insert into car_centers(name, tel, passwd) values('세종시 대리점', '044-298-0038', 'Bm4567s!');
 
 DELETE FROM car_centers WHERE car_center_id=3;
 -- -------------------------------------------------
@@ -80,4 +81,4 @@ WHERE history_id=1;
 select part_id from maintenance_history where cost REGEXP '^[4-6][0-9]{1}(,[0-9]{3})*$';
 select * from maintenance_history;
 select * from parts;
-select part_name from parts where part_code = (select part_id from maintenance_history where (cost REGEXP '^[4-6][0-9]{1}(,[0-9]{3})*$'));
+select part_name from parts where part_code IN (select part_id from maintenance_history where (cost REGEXP '^[4-6][0-9]{1}(,[0-9]{3})*$'));
