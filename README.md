@@ -162,7 +162,8 @@
 
 # 💻 쿼리 연습 문제
 
-[📃Notion](https://www.notion.so/f44120c1fe394664a2f44846a53a1195?pvs=21)
+[📃가상의 BMW 정비 데이터베이스를 활용한 SQL 정규표현식 실습 교안 pdf](https://github.com/user-attachments/files/18448024/_BMW_._._._SQL_._._.pdf)
+
 
 
 <br>
